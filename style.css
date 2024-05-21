@@ -1,0 +1,102 @@
+nav#menu {
+    align-items: center;
+    color: #ffffff;
+    margin: -20px;
+    
+    
+}
+
+nav#menu ul {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2em;
+    text-align: justify;
+    background-color: #e4422b;
+    list-style: none;
+    text-transform: uppercase;
+    top: 0px;
+    left: 400px;;
+    margin: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 5px;
+
+
+}
+
+img#imagem {
+    
+    position: absolute;
+    top: 21px;
+    right: 0;
+    left: ;
+}
+
+nav#menu li {
+    display: inline-block;    
+    font-size: 16px;
+    margin-right: 20px;
+    background-color: #e4422b;
+    padding: 5px 10px;
+    margin: 2px;
+    
+}
+
+div#interface {
+    margin: 10px;
+    padding: 10px;
+    background-color: #ffffff;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2em;
+    text-align: justify;
+}
+
+
+body {
+    background-color: #ffffff;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2em;
+    text-align: justify;
+    
+}
+
+h1, h2 {
+    color: #5f535d;
+    
+    font-size: 2.5em;
+}
+
+h1#nome {
+    margin: 20px;
+    margin-left: 6px;
+}
+
+p {
+    font-family: Helvetica;
+    font-size: 20px;
+    color: #5f535d;
+    justify-self: start;
+}
+
+a {
+    color: #5f535d;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+ul#project {
+    list-style-type: none;
+    
+
+}
+
+div.box {
+	
+	display: inline-block;
+    
+    padding: 10px;
+    left: 10px;
+    right: 10px;
+}
+
