@@ -10,7 +10,7 @@ nav#menu ul {
     font-family: 'Roboto', sans-serif;
     font-size: 1.2em;
     text-align: justify;
-    background-color: #e4422b;
+    background-color: #6E00B2;
     list-style: none;
     text-transform: uppercase;
     top: 0px;
@@ -35,7 +35,7 @@ nav#menu li {
     display: inline-block;    
     font-size: 16px;
     margin-right: 20px;
-    background-color: #e4422b;
+    background-color: #6E00B2;
     padding: 5px 10px;
     margin: 2px;
     
